@@ -1,0 +1,2700 @@
+[
+ {
+  "customer": "zhou",
+  "parts": [
+   {
+    "id": "courage",
+    "ml": 45
+   }
+  ],
+  "dilution": 0.1,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 9.09090909090909,
+    "sour": 27.27272727272727,
+    "bitter": 0.0,
+    "strong": 54.54545454545454,
+    "aroma": 27.27272727272727,
+    "body": 27.27272727272727
+   },
+   "raw_ml": 45,
+   "total_ml": 49.50000000000001,
+   "negative_share": 0.0,
+   "emotion_ml": 45,
+   "judge": {
+    "infected": false,
+    "mine": false,
+    "grade": "read",
+    "true_hits": 3,
+    "mouth_hits": 0,
+    "misses": []
+   }
+  }
+ },
+ {
+  "customer": "lin",
+  "parts": [
+   {
+    "id": "longing",
+    "ml": 45
+   }
+  ],
+  "dilution": 0.2,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 25.0,
+    "sour": 0.0,
+    "bitter": 16.666666666666668,
+    "strong": 0.0,
+    "aroma": 66.66666666666667,
+    "body": 25.0
+   },
+   "raw_ml": 45,
+   "total_ml": 54.0,
+   "negative_share": 0.0,
+   "emotion_ml": 45,
+   "judge": {
+    "infected": false,
+    "mine": false,
+    "grade": "read",
+    "true_hits": 3,
+    "mouth_hits": 1,
+    "misses": []
+   }
+  }
+ },
+ {
+  "customer": "zhe",
+  "parts": [
+   {
+    "id": "calm",
+    "ml": 45
+   }
+  ],
+  "dilution": 0.2,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 41.666666666666664,
+    "sour": 0.0,
+    "bitter": 0.0,
+    "strong": 8.333333333333334,
+    "aroma": 25.0,
+    "body": 41.666666666666664
+   },
+   "raw_ml": 45,
+   "total_ml": 54.0,
+   "negative_share": 0.0,
+   "emotion_ml": 45,
+   "judge": {
+    "infected": false,
+    "mine": false,
+    "grade": "read",
+    "true_hits": 3,
+    "mouth_hits": 1,
+    "misses": []
+   }
+  }
+ },
+ {
+  "customer": "oldk",
+  "parts": [
+   {
+    "id": "base",
+    "ml": 60
+   }
+  ],
+  "dilution": 0.2,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 0.0,
+    "sour": 0.0,
+    "bitter": 0.0,
+    "strong": 66.66666666666667,
+    "aroma": 0.0,
+    "body": 16.666666666666668
+   },
+   "raw_ml": 60,
+   "total_ml": 72.0,
+   "negative_share": 0.0,
+   "emotion_ml": 0,
+   "judge": {
+    "infected": false,
+    "mine": false,
+    "grade": "read",
+    "true_hits": 3,
+    "mouth_hits": 1,
+    "misses": []
+   }
+  }
+ },
+ {
+  "customer": "xu",
+  "parts": [
+   {
+    "id": "regret",
+    "ml": 15
+   },
+   {
+    "id": "longing",
+    "ml": 45
+   },
+   {
+    "id": "calm",
+    "ml": 30
+   }
+  ],
+  "dilution": 0.1,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 28.787878787878785,
+    "sour": 3.03030303030303,
+    "bitter": 19.696969696969695,
+    "strong": 7.575757575757574,
+    "aroma": 48.48484848484848,
+    "body": 37.878787878787875
+   },
+   "raw_ml": 90,
+   "total_ml": 99.00000000000001,
+   "negative_share": 0.1515151515151515,
+   "emotion_ml": 90,
+   "judge": {
+    "infected": false,
+    "mine": false,
+    "grade": "read",
+    "true_hits": 3,
+    "mouth_hits": 1,
+    "misses": []
+   }
+  }
+ },
+ {
+  "customer": "xiaoman",
+  "parts": [
+   {
+    "id": "joy",
+    "ml": 30
+   },
+   {
+    "id": "courage",
+    "ml": 15
+   },
+   {
+    "id": "base",
+    "ml": 15
+   }
+  ],
+  "dilution": 0.1,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 29.545454545454547,
+    "sour": 25.0,
+    "bitter": 0.0,
+    "strong": 40.90909090909091,
+    "aroma": 29.545454545454547,
+    "body": 20.454545454545453
+   },
+   "raw_ml": 60,
+   "total_ml": 66.0,
+   "negative_share": 0.0,
+   "emotion_ml": 45,
+   "judge": {
+    "infected": false,
+    "mine": false,
+    "grade": "read",
+    "true_hits": 3,
+    "mouth_hits": 1,
+    "misses": []
+   }
+  }
+ },
+ {
+  "customer": "yu",
+  "parts": [
+   {
+    "id": "longing",
+    "ml": 30
+   },
+   {
+    "id": "calm",
+    "ml": 15
+   }
+  ],
+  "dilution": 0.1,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 33.33333333333333,
+    "sour": 0.0,
+    "bitter": 12.12121212121212,
+    "strong": 3.03030303030303,
+    "aroma": 57.57575757575757,
+    "body": 33.33333333333333
+   },
+   "raw_ml": 45,
+   "total_ml": 49.50000000000001,
+   "negative_share": 0.0,
+   "emotion_ml": 45,
+   "judge": {
+    "infected": false,
+    "mine": false,
+    "grade": "pass",
+    "true_hits": 3,
+    "mouth_hits": 0,
+    "misses": []
+   }
+  }
+ },
+ {
+  "customer": "yu",
+  "parts": [
+   {
+    "id": "longing",
+    "ml": 30
+   },
+   {
+    "id": "calm",
+    "ml": 15
+   }
+  ],
+  "dilution": 0.1,
+  "yu_unlocked": true,
+  "expect": {
+   "tags": {
+    "sweet": 33.33333333333333,
+    "sour": 0.0,
+    "bitter": 12.12121212121212,
+    "strong": 3.03030303030303,
+    "aroma": 57.57575757575757,
+    "body": 33.33333333333333
+   },
+   "raw_ml": 45,
+   "total_ml": 49.50000000000001,
+   "negative_share": 0.0,
+   "emotion_ml": 45,
+   "judge": {
+    "infected": false,
+    "mine": false,
+    "grade": "read",
+    "true_hits": 3,
+    "mouth_hits": 0,
+    "misses": []
+   }
+  }
+ },
+ {
+  "customer": "xu",
+  "parts": [
+   {
+    "id": "regret",
+    "ml": 30
+   },
+   {
+    "id": "calm",
+    "ml": 60
+   }
+  ],
+  "dilution": 0.2,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 27.77777777777778,
+    "sour": 5.555555555555555,
+    "bitter": 19.444444444444443,
+    "strong": 13.88888888888889,
+    "aroma": 22.22222222222222,
+    "body": 44.44444444444444
+   },
+   "raw_ml": 90,
+   "total_ml": 108.0,
+   "negative_share": 0.2777777777777778,
+   "emotion_ml": 90,
+   "judge": {
+    "infected": true,
+    "mine": false,
+    "grade": "pass",
+    "true_hits": 3,
+    "mouth_hits": 0,
+    "misses": []
+   }
+  }
+ },
+ {
+  "customer": "zhou",
+  "parts": [
+   {
+    "id": "fear",
+    "ml": 60
+   }
+  ],
+  "dilution": 0.1,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 0.0,
+    "sour": 63.63636363636363,
+    "bitter": 18.181818181818183,
+    "strong": 36.36363636363637,
+    "aroma": 9.090909090909092,
+    "body": 18.181818181818183
+   },
+   "raw_ml": 60,
+   "total_ml": 66.0,
+   "negative_share": 0.9090909090909091,
+   "emotion_ml": 60,
+   "judge": {
+    "infected": true,
+    "mine": true,
+    "grade": "miss",
+    "true_hits": 0,
+    "mouth_hits": 0,
+    "misses": []
+   }
+  }
+ },
+ {
+  "customer": "lin",
+  "parts": [
+   {
+    "id": "calm",
+    "ml": 45
+   },
+   {
+    "id": "soda",
+    "ml": 15
+   }
+  ],
+  "dilution": 0.1,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 34.09090909090909,
+    "sour": 0.0,
+    "bitter": 0.0,
+    "strong": 6.818181818181818,
+    "aroma": 20.454545454545453,
+    "body": 34.09090909090909
+   },
+   "raw_ml": 60,
+   "total_ml": 66.0,
+   "negative_share": 0.0,
+   "emotion_ml": 45,
+   "judge": {
+    "infected": false,
+    "mine": false,
+    "grade": "pass",
+    "true_hits": 0,
+    "mouth_hits": 3,
+    "misses": [
+     {
+      "tag": "aroma",
+      "dir": "low"
+     },
+     {
+      "tag": "sweet",
+      "dir": "high"
+     },
+     {
+      "tag": "bitter",
+      "dir": "low"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "oldk",
+  "parts": [
+   {
+    "id": "base",
+    "ml": 60
+   },
+   {
+    "id": "longing",
+    "ml": 15
+   }
+  ],
+  "dilution": 0.2,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 5.0,
+    "sour": 0.0,
+    "bitter": 3.3333333333333335,
+    "strong": 53.333333333333336,
+    "aroma": 13.333333333333334,
+    "body": 18.333333333333332
+   },
+   "raw_ml": 75,
+   "total_ml": 90.0,
+   "negative_share": 0.0,
+   "emotion_ml": 15,
+   "judge": {
+    "infected": false,
+    "mine": false,
+    "grade": "pass",
+    "true_hits": 2,
+    "mouth_hits": 1,
+    "misses": [
+     {
+      "tag": "aroma",
+      "dir": "high"
+     },
+     {
+      "tag": "pure",
+      "dir": "high"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "yu",
+  "parts": [
+   {
+    "id": "calm",
+    "ml": 15
+   },
+   {
+    "id": "fear",
+    "ml": 15
+   }
+  ],
+  "dilution": 0.1,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 22.727272727272727,
+    "sour": 31.818181818181817,
+    "bitter": 9.090909090909092,
+    "strong": 22.727272727272727,
+    "aroma": 18.181818181818183,
+    "body": 31.818181818181817
+   },
+   "raw_ml": 30,
+   "total_ml": 33.0,
+   "negative_share": 0.45454545454545453,
+   "emotion_ml": 30,
+   "judge": {
+    "infected": true,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 1,
+    "mouth_hits": 0,
+    "misses": [
+     {
+      "tag": "sweet",
+      "dir": "low"
+     },
+     {
+      "tag": "bitter",
+      "dir": "low"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "yu",
+  "parts": [
+   {
+    "id": "calm",
+    "ml": 15
+   },
+   {
+    "id": "fear",
+    "ml": 15
+   }
+  ],
+  "dilution": 0.1,
+  "yu_unlocked": true,
+  "expect": {
+   "tags": {
+    "sweet": 22.727272727272727,
+    "sour": 31.818181818181817,
+    "bitter": 9.090909090909092,
+    "strong": 22.727272727272727,
+    "aroma": 18.181818181818183,
+    "body": 31.818181818181817
+   },
+   "raw_ml": 30,
+   "total_ml": 33.0,
+   "negative_share": 0.45454545454545453,
+   "emotion_ml": 30,
+   "judge": {
+    "infected": true,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 1,
+    "mouth_hits": 0,
+    "misses": [
+     {
+      "tag": "sweet",
+      "dir": "low"
+     },
+     {
+      "tag": "bitter",
+      "dir": "low"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "zhou",
+  "parts": [
+   {
+    "id": "regret",
+    "ml": 30
+   },
+   {
+    "id": "base",
+    "ml": 15
+   }
+  ],
+  "dilution": 0.4,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 0.0,
+    "sour": 9.523809523809526,
+    "bitter": 33.333333333333336,
+    "strong": 33.333333333333336,
+    "aroma": 9.523809523809526,
+    "body": 33.333333333333336
+   },
+   "raw_ml": 45,
+   "total_ml": 62.99999999999999,
+   "negative_share": 0.4761904761904762,
+   "emotion_ml": 30,
+   "judge": {
+    "infected": true,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 0,
+    "mouth_hits": 0,
+    "misses": [
+     {
+      "tag": "strong",
+      "dir": "low"
+     },
+     {
+      "tag": "sour",
+      "dir": "low"
+     },
+     {
+      "tag": "aroma",
+      "dir": "low"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "zhou",
+  "parts": [
+   {
+    "id": "soda",
+    "ml": 15
+   },
+   {
+    "id": "joy",
+    "ml": 60
+   }
+  ],
+  "dilution": 0.1,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 43.63636363636363,
+    "sour": 29.09090909090909,
+    "bitter": 0.0,
+    "strong": 14.545454545454545,
+    "aroma": 36.36363636363637,
+    "body": 14.545454545454545
+   },
+   "raw_ml": 75,
+   "total_ml": 82.5,
+   "negative_share": 0.0,
+   "emotion_ml": 60,
+   "judge": {
+    "infected": false,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 1,
+    "mouth_hits": 0,
+    "misses": [
+     {
+      "tag": "strong",
+      "dir": "low"
+     },
+     {
+      "tag": "aroma",
+      "dir": "high"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "xu",
+  "parts": [
+   {
+    "id": "despair",
+    "ml": 15
+   }
+  ],
+  "dilution": 0.4,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 0.0,
+    "sour": 0.0,
+    "bitter": 57.142857142857146,
+    "strong": 35.714285714285715,
+    "aroma": 0.0,
+    "body": 57.142857142857146
+   },
+   "raw_ml": 15,
+   "total_ml": 21.0,
+   "negative_share": 0.7142857142857143,
+   "emotion_ml": 15,
+   "judge": {
+    "infected": true,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 0,
+    "mouth_hits": 0,
+    "misses": [
+     {
+      "tag": "bitter",
+      "dir": "high"
+     },
+     {
+      "tag": "body",
+      "dir": "high"
+     },
+     {
+      "tag": "sweet",
+      "dir": "low"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "xu",
+  "parts": [
+   {
+    "id": "joy",
+    "ml": 15
+   }
+  ],
+  "dilution": 0.2,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 50.0,
+    "sour": 33.333333333333336,
+    "bitter": 0.0,
+    "strong": 16.666666666666668,
+    "aroma": 41.666666666666664,
+    "body": 16.666666666666668
+   },
+   "raw_ml": 15,
+   "total_ml": 18.0,
+   "negative_share": 0.0,
+   "emotion_ml": 15,
+   "judge": {
+    "infected": false,
+    "mine": false,
+    "grade": "pass",
+    "true_hits": 0,
+    "mouth_hits": 3,
+    "misses": [
+     {
+      "tag": "bitter",
+      "dir": "low"
+     },
+     {
+      "tag": "body",
+      "dir": "low"
+     },
+     {
+      "tag": "sweet",
+      "dir": "high"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "xu",
+  "parts": [
+   {
+    "id": "fear",
+    "ml": 15
+   },
+   {
+    "id": "calm",
+    "ml": 45
+   }
+  ],
+  "dilution": 0.2,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 31.25,
+    "sour": 14.583333333333334,
+    "bitter": 4.166666666666667,
+    "strong": 14.583333333333334,
+    "aroma": 20.833333333333332,
+    "body": 35.416666666666664
+   },
+   "raw_ml": 60,
+   "total_ml": 72.0,
+   "negative_share": 0.20833333333333334,
+   "emotion_ml": 60,
+   "judge": {
+    "infected": false,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 1,
+    "mouth_hits": 1,
+    "misses": [
+     {
+      "tag": "bitter",
+      "dir": "low"
+     },
+     {
+      "tag": "sweet",
+      "dir": "high"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "zhe",
+  "parts": [
+   {
+    "id": "regret",
+    "ml": 30
+   }
+  ],
+  "dilution": 0.1,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 0.0,
+    "sour": 18.181818181818183,
+    "bitter": 63.63636363636363,
+    "strong": 27.272727272727273,
+    "aroma": 18.181818181818183,
+    "body": 54.54545454545455
+   },
+   "raw_ml": 30,
+   "total_ml": 33.0,
+   "negative_share": 0.9090909090909091,
+   "emotion_ml": 30,
+   "judge": {
+    "infected": true,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 1,
+    "mouth_hits": 1,
+    "misses": [
+     {
+      "tag": "strong",
+      "dir": "high"
+     },
+     {
+      "tag": "sweet",
+      "dir": "low"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "yu",
+  "parts": [
+   {
+    "id": "soda",
+    "ml": 30
+   },
+   {
+    "id": "regret",
+    "ml": 60
+   },
+   {
+    "id": "base",
+    "ml": 60
+   }
+  ],
+  "dilution": 0.3,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 0.0,
+    "sour": 6.153846153846154,
+    "bitter": 21.53846153846154,
+    "strong": 33.84615384615385,
+    "aroma": 6.153846153846154,
+    "body": 24.615384615384617
+   },
+   "raw_ml": 150,
+   "total_ml": 195.0,
+   "negative_share": 0.3076923076923077,
+   "emotion_ml": 60,
+   "judge": {
+    "infected": true,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 1,
+    "mouth_hits": 0,
+    "misses": [
+     {
+      "tag": "sweet",
+      "dir": "low"
+     },
+     {
+      "tag": "body",
+      "dir": "low"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "yu",
+  "parts": [
+   {
+    "id": "soda",
+    "ml": 30
+   },
+   {
+    "id": "regret",
+    "ml": 60
+   },
+   {
+    "id": "base",
+    "ml": 60
+   }
+  ],
+  "dilution": 0.3,
+  "yu_unlocked": true,
+  "expect": {
+   "tags": {
+    "sweet": 0.0,
+    "sour": 6.153846153846154,
+    "bitter": 21.53846153846154,
+    "strong": 33.84615384615385,
+    "aroma": 6.153846153846154,
+    "body": 24.615384615384617
+   },
+   "raw_ml": 150,
+   "total_ml": 195.0,
+   "negative_share": 0.3076923076923077,
+   "emotion_ml": 60,
+   "judge": {
+    "infected": true,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 1,
+    "mouth_hits": 0,
+    "misses": [
+     {
+      "tag": "sweet",
+      "dir": "low"
+     },
+     {
+      "tag": "body",
+      "dir": "low"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "lin",
+  "parts": [
+   {
+    "id": "regret",
+    "ml": 45
+   },
+   {
+    "id": "anger",
+    "ml": 45
+   }
+  ],
+  "dilution": 0.2,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 0.0,
+    "sour": 16.666666666666668,
+    "bitter": 41.666666666666664,
+    "strong": 50.0,
+    "aroma": 12.5,
+    "body": 41.666666666666664
+   },
+   "raw_ml": 90,
+   "total_ml": 108.0,
+   "negative_share": 0.8333333333333334,
+   "emotion_ml": 90,
+   "judge": {
+    "infected": true,
+    "mine": true,
+    "grade": "miss",
+    "true_hits": 0,
+    "mouth_hits": 0,
+    "misses": []
+   }
+  }
+ },
+ {
+  "customer": "zhe",
+  "parts": [
+   {
+    "id": "joy",
+    "ml": 60
+   },
+   {
+    "id": "soda",
+    "ml": 45
+   },
+   {
+    "id": "courage",
+    "ml": 60
+   }
+  ],
+  "dilution": 0.1,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 23.140495867768593,
+    "sour": 23.140495867768593,
+    "bitter": 0.0,
+    "strong": 26.446280991735534,
+    "aroma": 26.446280991735534,
+    "body": 16.52892561983471
+   },
+   "raw_ml": 165,
+   "total_ml": 181.50000000000003,
+   "negative_share": 0.0,
+   "emotion_ml": 120,
+   "judge": {
+    "infected": false,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 0,
+    "mouth_hits": 0,
+    "misses": [
+     {
+      "tag": "strong",
+      "dir": "high"
+     },
+     {
+      "tag": "body",
+      "dir": "low"
+     },
+     {
+      "tag": "sweet",
+      "dir": "low"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "lin",
+  "parts": [
+   {
+    "id": "loneliness",
+    "ml": 60
+   }
+  ],
+  "dilution": 0.3,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 7.6923076923076925,
+    "sour": 7.6923076923076925,
+    "bitter": 30.76923076923077,
+    "strong": 7.6923076923076925,
+    "aroma": 30.76923076923077,
+    "body": 15.384615384615385
+   },
+   "raw_ml": 60,
+   "total_ml": 78.0,
+   "negative_share": 0.7692307692307693,
+   "emotion_ml": 60,
+   "judge": {
+    "infected": true,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 0,
+    "mouth_hits": 1,
+    "misses": [
+     {
+      "tag": "aroma",
+      "dir": "low"
+     },
+     {
+      "tag": "sweet",
+      "dir": "low"
+     },
+     {
+      "tag": "bitter",
+      "dir": "high"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "zhou",
+  "parts": [
+   {
+    "id": "anger",
+    "ml": 60
+   }
+  ],
+  "dilution": 0.1,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 0.0,
+    "sour": 18.181818181818183,
+    "bitter": 27.272727272727273,
+    "strong": 81.81818181818181,
+    "aroma": 9.090909090909092,
+    "body": 36.36363636363637
+   },
+   "raw_ml": 60,
+   "total_ml": 66.0,
+   "negative_share": 0.9090909090909091,
+   "emotion_ml": 60,
+   "judge": {
+    "infected": true,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 1,
+    "mouth_hits": 0,
+    "misses": [
+     {
+      "tag": "strong",
+      "dir": "high"
+     },
+     {
+      "tag": "aroma",
+      "dir": "low"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "zhou",
+  "parts": [
+   {
+    "id": "regret",
+    "ml": 45
+   },
+   {
+    "id": "longing",
+    "ml": 60
+   },
+   {
+    "id": "despair",
+    "ml": 60
+   }
+  ],
+  "dilution": 0.1,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 9.917355371900825,
+    "sour": 4.958677685950413,
+    "bitter": 50.41322314049586,
+    "strong": 23.966942148760328,
+    "aroma": 31.404958677685947,
+    "body": 51.2396694214876
+   },
+   "raw_ml": 165,
+   "total_ml": 181.50000000000003,
+   "negative_share": 0.5785123966942148,
+   "emotion_ml": 165,
+   "judge": {
+    "infected": true,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 1,
+    "mouth_hits": 0,
+    "misses": [
+     {
+      "tag": "strong",
+      "dir": "low"
+     },
+     {
+      "tag": "sour",
+      "dir": "low"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "xiaoman",
+  "parts": [
+   {
+    "id": "anger",
+    "ml": 15
+   },
+   {
+    "id": "soda",
+    "ml": 45
+   }
+  ],
+  "dilution": 0.4,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 0.0,
+    "sour": 3.5714285714285716,
+    "bitter": 5.357142857142857,
+    "strong": 16.071428571428573,
+    "aroma": 1.7857142857142858,
+    "body": 7.142857142857143
+   },
+   "raw_ml": 60,
+   "total_ml": 84.0,
+   "negative_share": 0.17857142857142858,
+   "emotion_ml": 15,
+   "judge": {
+    "infected": false,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 0,
+    "mouth_hits": 1,
+    "misses": [
+     {
+      "tag": "sweet",
+      "dir": "low"
+     },
+     {
+      "tag": "sour",
+      "dir": "low"
+     },
+     {
+      "tag": "strong",
+      "dir": "low"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "zhe",
+  "parts": [
+   {
+    "id": "fear",
+    "ml": 15
+   },
+   {
+    "id": "longing",
+    "ml": 60
+   }
+  ],
+  "dilution": 0.2,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 20.0,
+    "sour": 11.666666666666666,
+    "bitter": 16.666666666666668,
+    "strong": 6.666666666666667,
+    "aroma": 55.0,
+    "body": 23.333333333333332
+   },
+   "raw_ml": 75,
+   "total_ml": 90.0,
+   "negative_share": 0.16666666666666666,
+   "emotion_ml": 75,
+   "judge": {
+    "infected": false,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 1,
+    "mouth_hits": 2,
+    "misses": [
+     {
+      "tag": "body",
+      "dir": "low"
+     },
+     {
+      "tag": "sweet",
+      "dir": "low"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "xiaoman",
+  "parts": [
+   {
+    "id": "soda",
+    "ml": 30
+   },
+   {
+    "id": "anger",
+    "ml": 45
+   },
+   {
+    "id": "base",
+    "ml": 30
+   }
+  ],
+  "dilution": 0.2,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 0.0,
+    "sour": 7.142857142857143,
+    "bitter": 10.714285714285714,
+    "strong": 51.19047619047619,
+    "aroma": 3.5714285714285716,
+    "body": 19.047619047619047
+   },
+   "raw_ml": 105,
+   "total_ml": 126.0,
+   "negative_share": 0.35714285714285715,
+   "emotion_ml": 45,
+   "judge": {
+    "infected": true,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 0,
+    "mouth_hits": 0,
+    "misses": [
+     {
+      "tag": "sweet",
+      "dir": "low"
+     },
+     {
+      "tag": "sour",
+      "dir": "low"
+     },
+     {
+      "tag": "strong",
+      "dir": "high"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "oldk",
+  "parts": [
+   {
+    "id": "fear",
+    "ml": 15
+   },
+   {
+    "id": "anger",
+    "ml": 30
+   }
+  ],
+  "dilution": 0.4,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 0.0,
+    "sour": 26.190476190476193,
+    "bitter": 19.04761904761905,
+    "strong": 52.38095238095239,
+    "aroma": 7.142857142857143,
+    "body": 23.809523809523814
+   },
+   "raw_ml": 45,
+   "total_ml": 62.99999999999999,
+   "negative_share": 0.7142857142857144,
+   "emotion_ml": 45,
+   "judge": {
+    "infected": true,
+    "mine": false,
+    "grade": "pass",
+    "true_hits": 3,
+    "mouth_hits": 0,
+    "misses": [
+     {
+      "tag": "pure",
+      "dir": "high"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "xiaoman",
+  "parts": [
+   {
+    "id": "courage",
+    "ml": 45
+   },
+   {
+    "id": "calm",
+    "ml": 60
+   },
+   {
+    "id": "fear",
+    "ml": 45
+   }
+  ],
+  "dilution": 0.4,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 16.428571428571427,
+    "sour": 21.428571428571427,
+    "bitter": 4.285714285714286,
+    "strong": 24.285714285714285,
+    "aroma": 17.142857142857142,
+    "body": 25.0
+   },
+   "raw_ml": 150,
+   "total_ml": 210.0,
+   "negative_share": 0.21428571428571427,
+   "emotion_ml": 150,
+   "judge": {
+    "infected": false,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 0,
+    "mouth_hits": 1,
+    "misses": [
+     {
+      "tag": "sweet",
+      "dir": "low"
+     },
+     {
+      "tag": "sour",
+      "dir": "low"
+     },
+     {
+      "tag": "strong",
+      "dir": "low"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "lin",
+  "parts": [
+   {
+    "id": "calm",
+    "ml": 15
+   }
+  ],
+  "dilution": 0.2,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 41.666666666666664,
+    "sour": 0.0,
+    "bitter": 0.0,
+    "strong": 8.333333333333334,
+    "aroma": 25.0,
+    "body": 41.666666666666664
+   },
+   "raw_ml": 15,
+   "total_ml": 18.0,
+   "negative_share": 0.0,
+   "emotion_ml": 15,
+   "judge": {
+    "infected": false,
+    "mine": false,
+    "grade": "pass",
+    "true_hits": 0,
+    "mouth_hits": 3,
+    "misses": [
+     {
+      "tag": "aroma",
+      "dir": "low"
+     },
+     {
+      "tag": "sweet",
+      "dir": "high"
+     },
+     {
+      "tag": "bitter",
+      "dir": "low"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "zhou",
+  "parts": [
+   {
+    "id": "despair",
+    "ml": 30
+   }
+  ],
+  "dilution": 0.4,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 0.0,
+    "sour": 0.0,
+    "bitter": 57.142857142857146,
+    "strong": 35.714285714285715,
+    "aroma": 0.0,
+    "body": 57.142857142857146
+   },
+   "raw_ml": 30,
+   "total_ml": 42.0,
+   "negative_share": 0.7142857142857143,
+   "emotion_ml": 30,
+   "judge": {
+    "infected": true,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 0,
+    "mouth_hits": 0,
+    "misses": [
+     {
+      "tag": "strong",
+      "dir": "low"
+     },
+     {
+      "tag": "sour",
+      "dir": "low"
+     },
+     {
+      "tag": "aroma",
+      "dir": "low"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "xu",
+  "parts": [
+   {
+    "id": "calm",
+    "ml": 15
+   },
+   {
+    "id": "courage",
+    "ml": 30
+   },
+   {
+    "id": "regret",
+    "ml": 60
+   }
+  ],
+  "dilution": 0.3,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 7.6923076923076925,
+    "sour": 15.384615384615385,
+    "bitter": 30.76923076923077,
+    "strong": 27.47252747252747,
+    "aroma": 18.681318681318682,
+    "body": 38.46153846153846
+   },
+   "raw_ml": 105,
+   "total_ml": 136.5,
+   "negative_share": 0.43956043956043955,
+   "emotion_ml": 105,
+   "judge": {
+    "infected": true,
+    "mine": false,
+    "grade": "pass",
+    "true_hits": 2,
+    "mouth_hits": 0,
+    "misses": [
+     {
+      "tag": "sweet",
+      "dir": "low"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "oldk",
+  "parts": [
+   {
+    "id": "regret",
+    "ml": 15
+   },
+   {
+    "id": "longing",
+    "ml": 60
+   },
+   {
+    "id": "calm",
+    "ml": 60
+   }
+  ],
+  "dilution": 0.4,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 25.396825396825395,
+    "sour": 1.5873015873015872,
+    "bitter": 11.904761904761905,
+    "strong": 5.555555555555555,
+    "aroma": 36.507936507936506,
+    "body": 30.158730158730158
+   },
+   "raw_ml": 135,
+   "total_ml": 189.0,
+   "negative_share": 0.07936507936507936,
+   "emotion_ml": 135,
+   "judge": {
+    "infected": false,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 0,
+    "mouth_hits": 1,
+    "misses": [
+     {
+      "tag": "strong",
+      "dir": "low"
+     },
+     {
+      "tag": "body",
+      "dir": "high"
+     },
+     {
+      "tag": "aroma",
+      "dir": "high"
+     },
+     {
+      "tag": "pure",
+      "dir": "high"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "lin",
+  "parts": [
+   {
+    "id": "soda",
+    "ml": 60
+   },
+   {
+    "id": "anger",
+    "ml": 15
+   }
+  ],
+  "dilution": 0.1,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 0.0,
+    "sour": 3.6363636363636362,
+    "bitter": 5.454545454545454,
+    "strong": 16.363636363636363,
+    "aroma": 1.8181818181818181,
+    "body": 7.2727272727272725
+   },
+   "raw_ml": 75,
+   "total_ml": 82.5,
+   "negative_share": 0.18181818181818182,
+   "emotion_ml": 15,
+   "judge": {
+    "infected": false,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 0,
+    "mouth_hits": 1,
+    "misses": [
+     {
+      "tag": "aroma",
+      "dir": "low"
+     },
+     {
+      "tag": "sweet",
+      "dir": "low"
+     },
+     {
+      "tag": "bitter",
+      "dir": "low"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "zhou",
+  "parts": [
+   {
+    "id": "anger",
+    "ml": 30
+   }
+  ],
+  "dilution": 0.3,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 0.0,
+    "sour": 15.384615384615385,
+    "bitter": 23.076923076923077,
+    "strong": 69.23076923076923,
+    "aroma": 7.6923076923076925,
+    "body": 30.76923076923077
+   },
+   "raw_ml": 30,
+   "total_ml": 39.0,
+   "negative_share": 0.7692307692307693,
+   "emotion_ml": 30,
+   "judge": {
+    "infected": true,
+    "mine": false,
+    "grade": "pass",
+    "true_hits": 2,
+    "mouth_hits": 0,
+    "misses": [
+     {
+      "tag": "aroma",
+      "dir": "low"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "xu",
+  "parts": [
+   {
+    "id": "base",
+    "ml": 30
+   },
+   {
+    "id": "soda",
+    "ml": 15
+   },
+   {
+    "id": "despair",
+    "ml": 45
+   }
+  ],
+  "dilution": 0.1,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 0.0,
+    "sour": 0.0,
+    "bitter": 36.36363636363636,
+    "strong": 46.96969696969696,
+    "aroma": 0.0,
+    "body": 42.424242424242415
+   },
+   "raw_ml": 90,
+   "total_ml": 99.00000000000001,
+   "negative_share": 0.4545454545454545,
+   "emotion_ml": 45,
+   "judge": {
+    "infected": true,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 1,
+    "mouth_hits": 0,
+    "misses": [
+     {
+      "tag": "bitter",
+      "dir": "high"
+     },
+     {
+      "tag": "sweet",
+      "dir": "low"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "lin",
+  "parts": [
+   {
+    "id": "joy",
+    "ml": 60
+   }
+  ],
+  "dilution": 0.3,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 46.15384615384615,
+    "sour": 30.76923076923077,
+    "bitter": 0.0,
+    "strong": 15.384615384615385,
+    "aroma": 38.46153846153846,
+    "body": 15.384615384615385
+   },
+   "raw_ml": 60,
+   "total_ml": 78.0,
+   "negative_share": 0.0,
+   "emotion_ml": 60,
+   "judge": {
+    "infected": false,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 0,
+    "mouth_hits": 2,
+    "misses": [
+     {
+      "tag": "aroma",
+      "dir": "low"
+     },
+     {
+      "tag": "sweet",
+      "dir": "high"
+     },
+     {
+      "tag": "bitter",
+      "dir": "low"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "zhou",
+  "parts": [
+   {
+    "id": "regret",
+    "ml": 60
+   },
+   {
+    "id": "longing",
+    "ml": 15
+   }
+  ],
+  "dilution": 0.4,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 4.285714285714286,
+    "sour": 11.428571428571429,
+    "bitter": 42.857142857142854,
+    "strong": 17.142857142857142,
+    "aroma": 22.857142857142858,
+    "body": 38.57142857142857
+   },
+   "raw_ml": 75,
+   "total_ml": 105.0,
+   "negative_share": 0.5714285714285714,
+   "emotion_ml": 75,
+   "judge": {
+    "infected": true,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 1,
+    "mouth_hits": 0,
+    "misses": [
+     {
+      "tag": "strong",
+      "dir": "low"
+     },
+     {
+      "tag": "sour",
+      "dir": "low"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "lin",
+  "parts": [
+   {
+    "id": "anger",
+    "ml": 45
+   },
+   {
+    "id": "despair",
+    "ml": 15
+   }
+  ],
+  "dilution": 0.1,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 0.0,
+    "sour": 13.636363636363637,
+    "bitter": 38.63636363636363,
+    "strong": 72.72727272727273,
+    "aroma": 6.818181818181818,
+    "body": 45.45454545454545
+   },
+   "raw_ml": 60,
+   "total_ml": 66.0,
+   "negative_share": 0.9090909090909091,
+   "emotion_ml": 60,
+   "judge": {
+    "infected": true,
+    "mine": true,
+    "grade": "miss",
+    "true_hits": 0,
+    "mouth_hits": 0,
+    "misses": []
+   }
+  }
+ },
+ {
+  "customer": "xu",
+  "parts": [
+   {
+    "id": "longing",
+    "ml": 30
+   },
+   {
+    "id": "courage",
+    "ml": 15
+   },
+   {
+    "id": "anger",
+    "ml": 30
+   }
+  ],
+  "dilution": 0.3,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 10.76923076923077,
+    "sour": 10.76923076923077,
+    "bitter": 15.384615384615385,
+    "strong": 36.92307692307692,
+    "aroma": 32.30769230769231,
+    "body": 26.153846153846153
+   },
+   "raw_ml": 75,
+   "total_ml": 97.5,
+   "negative_share": 0.3076923076923077,
+   "emotion_ml": 75,
+   "judge": {
+    "infected": true,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 0,
+    "mouth_hits": 1,
+    "misses": [
+     {
+      "tag": "bitter",
+      "dir": "low"
+     },
+     {
+      "tag": "body",
+      "dir": "low"
+     },
+     {
+      "tag": "sweet",
+      "dir": "low"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "yu",
+  "parts": [
+   {
+    "id": "loneliness",
+    "ml": 15
+   }
+  ],
+  "dilution": 0.3,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 7.6923076923076925,
+    "sour": 7.6923076923076925,
+    "bitter": 30.76923076923077,
+    "strong": 7.6923076923076925,
+    "aroma": 30.76923076923077,
+    "body": 15.384615384615385
+   },
+   "raw_ml": 15,
+   "total_ml": 19.5,
+   "negative_share": 0.7692307692307693,
+   "emotion_ml": 15,
+   "judge": {
+    "infected": true,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 0,
+    "mouth_hits": 0,
+    "misses": [
+     {
+      "tag": "sweet",
+      "dir": "low"
+     },
+     {
+      "tag": "bitter",
+      "dir": "high"
+     },
+     {
+      "tag": "body",
+      "dir": "low"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "yu",
+  "parts": [
+   {
+    "id": "loneliness",
+    "ml": 15
+   }
+  ],
+  "dilution": 0.3,
+  "yu_unlocked": true,
+  "expect": {
+   "tags": {
+    "sweet": 7.6923076923076925,
+    "sour": 7.6923076923076925,
+    "bitter": 30.76923076923077,
+    "strong": 7.6923076923076925,
+    "aroma": 30.76923076923077,
+    "body": 15.384615384615385
+   },
+   "raw_ml": 15,
+   "total_ml": 19.5,
+   "negative_share": 0.7692307692307693,
+   "emotion_ml": 15,
+   "judge": {
+    "infected": true,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 0,
+    "mouth_hits": 0,
+    "misses": [
+     {
+      "tag": "sweet",
+      "dir": "low"
+     },
+     {
+      "tag": "bitter",
+      "dir": "high"
+     },
+     {
+      "tag": "body",
+      "dir": "low"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "yu",
+  "parts": [
+   {
+    "id": "soda",
+    "ml": 45
+   },
+   {
+    "id": "courage",
+    "ml": 30
+   },
+   {
+    "id": "loneliness",
+    "ml": 45
+   }
+  ],
+  "dilution": 0.2,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 5.208333333333333,
+    "sour": 9.375,
+    "bitter": 12.5,
+    "strong": 15.625,
+    "aroma": 18.75,
+    "body": 12.5
+   },
+   "raw_ml": 120,
+   "total_ml": 144.0,
+   "negative_share": 0.3125,
+   "emotion_ml": 75,
+   "judge": {
+    "infected": true,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 1,
+    "mouth_hits": 0,
+    "misses": [
+     {
+      "tag": "sweet",
+      "dir": "low"
+     },
+     {
+      "tag": "body",
+      "dir": "low"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "yu",
+  "parts": [
+   {
+    "id": "soda",
+    "ml": 45
+   },
+   {
+    "id": "courage",
+    "ml": 30
+   },
+   {
+    "id": "loneliness",
+    "ml": 45
+   }
+  ],
+  "dilution": 0.2,
+  "yu_unlocked": true,
+  "expect": {
+   "tags": {
+    "sweet": 5.208333333333333,
+    "sour": 9.375,
+    "bitter": 12.5,
+    "strong": 15.625,
+    "aroma": 18.75,
+    "body": 12.5
+   },
+   "raw_ml": 120,
+   "total_ml": 144.0,
+   "negative_share": 0.3125,
+   "emotion_ml": 75,
+   "judge": {
+    "infected": true,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 1,
+    "mouth_hits": 0,
+    "misses": [
+     {
+      "tag": "sweet",
+      "dir": "low"
+     },
+     {
+      "tag": "body",
+      "dir": "low"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "yu",
+  "parts": [
+   {
+    "id": "loneliness",
+    "ml": 30
+   },
+   {
+    "id": "despair",
+    "ml": 30
+   },
+   {
+    "id": "longing",
+    "ml": 30
+   }
+  ],
+  "dilution": 0.4,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 9.523809523809526,
+    "sour": 2.3809523809523814,
+    "bitter": 33.333333333333336,
+    "strong": 14.285714285714286,
+    "aroma": 28.571428571428573,
+    "body": 30.952380952380956
+   },
+   "raw_ml": 90,
+   "total_ml": 125.99999999999999,
+   "negative_share": 0.4761904761904762,
+   "emotion_ml": 90,
+   "judge": {
+    "infected": true,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 1,
+    "mouth_hits": 0,
+    "misses": [
+     {
+      "tag": "sweet",
+      "dir": "low"
+     },
+     {
+      "tag": "bitter",
+      "dir": "high"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "yu",
+  "parts": [
+   {
+    "id": "loneliness",
+    "ml": 30
+   },
+   {
+    "id": "despair",
+    "ml": 30
+   },
+   {
+    "id": "longing",
+    "ml": 30
+   }
+  ],
+  "dilution": 0.4,
+  "yu_unlocked": true,
+  "expect": {
+   "tags": {
+    "sweet": 9.523809523809526,
+    "sour": 2.3809523809523814,
+    "bitter": 33.333333333333336,
+    "strong": 14.285714285714286,
+    "aroma": 28.571428571428573,
+    "body": 30.952380952380956
+   },
+   "raw_ml": 90,
+   "total_ml": 125.99999999999999,
+   "negative_share": 0.4761904761904762,
+   "emotion_ml": 90,
+   "judge": {
+    "infected": true,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 1,
+    "mouth_hits": 0,
+    "misses": [
+     {
+      "tag": "sweet",
+      "dir": "low"
+     },
+     {
+      "tag": "bitter",
+      "dir": "high"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "zhou",
+  "parts": [
+   {
+    "id": "joy",
+    "ml": 60
+   },
+   {
+    "id": "despair",
+    "ml": 45
+   },
+   {
+    "id": "loneliness",
+    "ml": 15
+   }
+  ],
+  "dilution": 0.3,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 24.03846153846154,
+    "sour": 16.346153846153847,
+    "bitter": 26.923076923076923,
+    "strong": 23.076923076923077,
+    "aroma": 23.076923076923077,
+    "body": 32.69230769230769
+   },
+   "raw_ml": 120,
+   "total_ml": 156.0,
+   "negative_share": 0.38461538461538464,
+   "emotion_ml": 120,
+   "judge": {
+    "infected": true,
+    "mine": false,
+    "grade": "pass",
+    "true_hits": 2,
+    "mouth_hits": 0,
+    "misses": [
+     {
+      "tag": "strong",
+      "dir": "low"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "yu",
+  "parts": [
+   {
+    "id": "courage",
+    "ml": 45
+   },
+   {
+    "id": "joy",
+    "ml": 60
+   }
+  ],
+  "dilution": 0.3,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 29.67032967032967,
+    "sour": 27.47252747252747,
+    "bitter": 0.0,
+    "strong": 28.571428571428573,
+    "aroma": 31.86813186813187,
+    "body": 18.681318681318682
+   },
+   "raw_ml": 105,
+   "total_ml": 136.5,
+   "negative_share": 0.0,
+   "emotion_ml": 105,
+   "judge": {
+    "infected": false,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 1,
+    "mouth_hits": 0,
+    "misses": [
+     {
+      "tag": "bitter",
+      "dir": "low"
+     },
+     {
+      "tag": "body",
+      "dir": "low"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "yu",
+  "parts": [
+   {
+    "id": "courage",
+    "ml": 45
+   },
+   {
+    "id": "joy",
+    "ml": 60
+   }
+  ],
+  "dilution": 0.3,
+  "yu_unlocked": true,
+  "expect": {
+   "tags": {
+    "sweet": 29.67032967032967,
+    "sour": 27.47252747252747,
+    "bitter": 0.0,
+    "strong": 28.571428571428573,
+    "aroma": 31.86813186813187,
+    "body": 18.681318681318682
+   },
+   "raw_ml": 105,
+   "total_ml": 136.5,
+   "negative_share": 0.0,
+   "emotion_ml": 105,
+   "judge": {
+    "infected": false,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 1,
+    "mouth_hits": 0,
+    "misses": [
+     {
+      "tag": "bitter",
+      "dir": "low"
+     },
+     {
+      "tag": "body",
+      "dir": "low"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "oldk",
+  "parts": [
+   {
+    "id": "soda",
+    "ml": 15
+   },
+   {
+    "id": "joy",
+    "ml": 30
+   }
+  ],
+  "dilution": 0.2,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 33.333333333333336,
+    "sour": 22.22222222222222,
+    "bitter": 0.0,
+    "strong": 11.11111111111111,
+    "aroma": 27.77777777777778,
+    "body": 11.11111111111111
+   },
+   "raw_ml": 45,
+   "total_ml": 54.0,
+   "negative_share": 0.0,
+   "emotion_ml": 30,
+   "judge": {
+    "infected": false,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 1,
+    "mouth_hits": 2,
+    "misses": [
+     {
+      "tag": "strong",
+      "dir": "low"
+     },
+     {
+      "tag": "aroma",
+      "dir": "high"
+     },
+     {
+      "tag": "pure",
+      "dir": "high"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "xiaoman",
+  "parts": [
+   {
+    "id": "joy",
+    "ml": 15
+   },
+   {
+    "id": "anger",
+    "ml": 60
+   }
+  ],
+  "dilution": 0.3,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 9.23076923076923,
+    "sour": 18.46153846153846,
+    "bitter": 18.46153846153846,
+    "strong": 58.46153846153846,
+    "aroma": 13.846153846153847,
+    "body": 27.692307692307693
+   },
+   "raw_ml": 75,
+   "total_ml": 97.5,
+   "negative_share": 0.6153846153846154,
+   "emotion_ml": 75,
+   "judge": {
+    "infected": true,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 0,
+    "mouth_hits": 1,
+    "misses": [
+     {
+      "tag": "sweet",
+      "dir": "low"
+     },
+     {
+      "tag": "sour",
+      "dir": "low"
+     },
+     {
+      "tag": "strong",
+      "dir": "high"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "oldk",
+  "parts": [
+   {
+    "id": "soda",
+    "ml": 30
+   },
+   {
+    "id": "despair",
+    "ml": 60
+   },
+   {
+    "id": "fear",
+    "ml": 30
+   }
+  ],
+  "dilution": 0.3,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 0.0,
+    "sour": 13.461538461538462,
+    "bitter": 34.61538461538461,
+    "strong": 26.923076923076923,
+    "aroma": 1.9230769230769231,
+    "body": 34.61538461538461
+   },
+   "raw_ml": 120,
+   "total_ml": 156.0,
+   "negative_share": 0.5769230769230769,
+   "emotion_ml": 90,
+   "judge": {
+    "infected": true,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 1,
+    "mouth_hits": 0,
+    "misses": [
+     {
+      "tag": "strong",
+      "dir": "low"
+     },
+     {
+      "tag": "body",
+      "dir": "high"
+     },
+     {
+      "tag": "pure",
+      "dir": "high"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "oldk",
+  "parts": [
+   {
+    "id": "fear",
+    "ml": 60
+   }
+  ],
+  "dilution": 0.1,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 0.0,
+    "sour": 63.63636363636363,
+    "bitter": 18.181818181818183,
+    "strong": 36.36363636363637,
+    "aroma": 9.090909090909092,
+    "body": 18.181818181818183
+   },
+   "raw_ml": 60,
+   "total_ml": 66.0,
+   "negative_share": 0.9090909090909091,
+   "emotion_ml": 60,
+   "judge": {
+    "infected": true,
+    "mine": false,
+    "grade": "pass",
+    "true_hits": 2,
+    "mouth_hits": 0,
+    "misses": [
+     {
+      "tag": "strong",
+      "dir": "low"
+     },
+     {
+      "tag": "pure",
+      "dir": "high"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "yu",
+  "parts": [
+   {
+    "id": "calm",
+    "ml": 15
+   },
+   {
+    "id": "despair",
+    "ml": 30
+   },
+   {
+    "id": "regret",
+    "ml": 60
+   }
+  ],
+  "dilution": 0.2,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 5.9523809523809526,
+    "sour": 9.523809523809524,
+    "bitter": 52.38095238095238,
+    "strong": 27.38095238095238,
+    "aroma": 13.095238095238095,
+    "body": 53.57142857142857
+   },
+   "raw_ml": 105,
+   "total_ml": 126.0,
+   "negative_share": 0.7142857142857143,
+   "emotion_ml": 105,
+   "judge": {
+    "infected": true,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 0,
+    "mouth_hits": 0,
+    "misses": [
+     {
+      "tag": "sweet",
+      "dir": "low"
+     },
+     {
+      "tag": "bitter",
+      "dir": "high"
+     },
+     {
+      "tag": "body",
+      "dir": "high"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "yu",
+  "parts": [
+   {
+    "id": "calm",
+    "ml": 15
+   },
+   {
+    "id": "despair",
+    "ml": 30
+   },
+   {
+    "id": "regret",
+    "ml": 60
+   }
+  ],
+  "dilution": 0.2,
+  "yu_unlocked": true,
+  "expect": {
+   "tags": {
+    "sweet": 5.9523809523809526,
+    "sour": 9.523809523809524,
+    "bitter": 52.38095238095238,
+    "strong": 27.38095238095238,
+    "aroma": 13.095238095238095,
+    "body": 53.57142857142857
+   },
+   "raw_ml": 105,
+   "total_ml": 126.0,
+   "negative_share": 0.7142857142857143,
+   "emotion_ml": 105,
+   "judge": {
+    "infected": true,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 0,
+    "mouth_hits": 0,
+    "misses": [
+     {
+      "tag": "sweet",
+      "dir": "low"
+     },
+     {
+      "tag": "bitter",
+      "dir": "high"
+     },
+     {
+      "tag": "body",
+      "dir": "high"
+     }
+    ]
+   }
+  }
+ },
+ {
+  "customer": "zhou",
+  "parts": [
+   {
+    "id": "regret",
+    "ml": 30
+   },
+   {
+    "id": "anger",
+    "ml": 30
+   },
+   {
+    "id": "longing",
+    "ml": 15
+   }
+  ],
+  "dilution": 0.1,
+  "yu_unlocked": false,
+  "expect": {
+   "tags": {
+    "sweet": 5.454545454545454,
+    "sour": 14.545454545454545,
+    "bitter": 40.0,
+    "strong": 43.63636363636363,
+    "aroma": 25.454545454545453,
+    "body": 41.81818181818182
+   },
+   "raw_ml": 75,
+   "total_ml": 82.5,
+   "negative_share": 0.7272727272727273,
+   "emotion_ml": 75,
+   "judge": {
+    "infected": true,
+    "mine": false,
+    "grade": "miss",
+    "true_hits": 1,
+    "mouth_hits": 0,
+    "misses": [
+     {
+      "tag": "strong",
+      "dir": "low"
+     },
+     {
+      "tag": "sour",
+      "dir": "low"
+     }
+    ]
+   }
+  }
+ }
+]

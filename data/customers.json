@@ -1,0 +1,263 @@
+{
+  "zhou": {
+    "zh": "小周",
+    "en": "Zhou",
+    "dump": "fear",
+    "gift": "courage",
+    "nights": [
+      1
+    ],
+    "mouth": null,
+    "true": {
+      "strong": [
+        45,
+        70
+      ],
+      "sour": [
+        15,
+        35
+      ],
+      "aroma": [
+        15,
+        35
+      ]
+    },
+    "mine": [
+      "sour",
+      45
+    ]
+  },
+  "lin": {
+    "zh": "林阿姨",
+    "en": "Mrs. Lin",
+    "dump": "loneliness",
+    "gift": "longing",
+    "nights": [
+      1
+    ],
+    "mouth": {
+      "sweet": [
+        30,
+        50
+      ],
+      "body": [
+        30,
+        50
+      ],
+      "strong": [
+        0,
+        20
+      ]
+    },
+    "true": {
+      "aroma": [
+        45,
+        70
+      ],
+      "sweet": [
+        15,
+        30
+      ],
+      "bitter": [
+        8,
+        20
+      ]
+    },
+    "mine": [
+      "strong",
+      40
+    ]
+  },
+  "zhe": {
+    "zh": "阿哲",
+    "en": "Zhe",
+    "dump": "anger",
+    "gift": "joy",
+    "nights": [
+      2
+    ],
+    "mouth": {
+      "strong": [
+        50,
+        75
+      ],
+      "bitter": [
+        15,
+        35
+      ],
+      "sour": [
+        0,
+        20
+      ]
+    },
+    "true": {
+      "strong": [
+        0,
+        20
+      ],
+      "body": [
+        35,
+        60
+      ],
+      "sweet": [
+        25,
+        45
+      ]
+    },
+    "mine": [
+      "sour",
+      40
+    ]
+  },
+  "oldk": {
+    "zh": "老K",
+    "en": "Old K",
+    "dump": "regret",
+    "gift": "joy",
+    "nights": [
+      2,
+      4,
+      5
+    ],
+    "mouth": {
+      "sweet": [
+        30,
+        50
+      ],
+      "aroma": [
+        30,
+        60
+      ],
+      "bitter": [
+        0,
+        10
+      ]
+    },
+    "true": {
+      "strong": [
+        50,
+        75
+      ],
+      "body": [
+        10,
+        30
+      ],
+      "aroma": [
+        0,
+        10
+      ]
+    },
+    "mine": null,
+    "pure": true
+  },
+  "xu": {
+    "zh": "许然",
+    "en": "Xu Ran",
+    "dump": "regret",
+    "gift": "calm",
+    "nights": [
+      3
+    ],
+    "mouth": {
+      "sweet": [
+        35,
+        55
+      ],
+      "aroma": [
+        30,
+        50
+      ],
+      "bitter": [
+        0,
+        10
+      ]
+    },
+    "true": {
+      "bitter": [
+        18,
+        35
+      ],
+      "body": [
+        35,
+        55
+      ],
+      "sweet": [
+        15,
+        30
+      ]
+    },
+    "mine": [
+      "sweet",
+      60
+    ]
+  },
+  "xiaoman": {
+    "zh": "小满",
+    "en": "Xiaoman",
+    "dump": "fear",
+    "gift": null,
+    "nights": [
+      4
+    ],
+    "mouth": {
+      "strong": [
+        0,
+        20
+      ],
+      "sweet": [
+        30,
+        50
+      ],
+      "sour": [
+        10,
+        30
+      ]
+    },
+    "true": {
+      "sweet": [
+        20,
+        40
+      ],
+      "sour": [
+        25,
+        45
+      ],
+      "strong": [
+        25,
+        45
+      ]
+    },
+    "mine": [
+      "body",
+      50
+    ]
+  },
+  "yu": {
+    "zh": "余",
+    "en": "Yu",
+    "dump": "despair",
+    "gift": null,
+    "nights": [
+      1,
+      3,
+      5
+    ],
+    "mouth": null,
+    "true": {
+      "sweet": [
+        25,
+        40
+      ],
+      "bitter": [
+        12,
+        25
+      ],
+      "body": [
+        30,
+        50
+      ]
+    },
+    "mine": null,
+    "locked_until_despair": true
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "base": {
+    "zh": "基酒",
+    "en": "Base Spirit",
+    "polarity": 0,
+    "is_emotion": false,
+    "tags": {
+      "sweet": 0,
+      "sour": 0,
+      "bitter": 0,
+      "strong": 80,
+      "aroma": 0,
+      "body": 20
+    },
+    "color": "#d9d9d9"
+  },
+  "soda": {
+    "zh": "苏打",
+    "en": "Soda",
+    "polarity": 0,
+    "is_emotion": false,
+    "tags": {
+      "sweet": 0,
+      "sour": 0,
+      "bitter": 0,
+      "strong": 0,
+      "aroma": 0,
+      "body": 0
+    },
+    "color": "#eeeeee"
+  },
+  "calm": {
+    "zh": "安心",
+    "en": "Calm",
+    "polarity": 1,
+    "is_emotion": true,
+    "tags": {
+      "sweet": 50,
+      "sour": 0,
+      "bitter": 0,
+      "strong": 10,
+      "aroma": 30,
+      "body": 50
+    },
+    "color": "#f3e3c3"
+  },
+  "joy": {
+    "zh": "喜悦",
+    "en": "Joy",
+    "polarity": 1,
+    "is_emotion": true,
+    "tags": {
+      "sweet": 60,
+      "sour": 40,
+      "bitter": 0,
+      "strong": 20,
+      "aroma": 50,
+      "body": 20
+    },
+    "color": "#f2c94c"
+  },
+  "courage": {
+    "zh": "勇气",
+    "en": "Courage",
+    "polarity": 1,
+    "is_emotion": true,
+    "tags": {
+      "sweet": 10,
+      "sour": 30,
+      "bitter": 0,
+      "strong": 60,
+      "aroma": 30,
+      "body": 30
+    },
+    "color": "#f2994a"
+  },
+  "longing": {
+    "zh": "思念",
+    "en": "Longing",
+    "polarity": 0,
+    "is_emotion": true,
+    "tags": {
+      "sweet": 30,
+      "sour": 0,
+      "bitter": 20,
+      "strong": 0,
+      "aroma": 80,
+      "body": 30
+    },
+    "color": "#b7a6d9"
+  },
+  "fear": {
+    "zh": "恐惧",
+    "en": "Fear",
+    "polarity": -1,
+    "is_emotion": true,
+    "tags": {
+      "sweet": 0,
+      "sour": 70,
+      "bitter": 20,
+      "strong": 40,
+      "aroma": 10,
+      "body": 20
+    },
+    "color": "#8fb39a"
+  },
+  "anger": {
+    "zh": "愤怒",
+    "en": "Anger",
+    "polarity": -1,
+    "is_emotion": true,
+    "tags": {
+      "sweet": 0,
+      "sour": 20,
+      "bitter": 30,
+      "strong": 90,
+      "aroma": 10,
+      "body": 40
+    },
+    "color": "#8b2f2f"
+  },
+  "loneliness": {
+    "zh": "孤独",
+    "en": "Loneliness",
+    "polarity": -1,
+    "is_emotion": true,
+    "tags": {
+      "sweet": 10,
+      "sour": 10,
+      "bitter": 40,
+      "strong": 10,
+      "aroma": 40,
+      "body": 20
+    },
+    "color": "#6f86a6"
+  },
+  "regret": {
+    "zh": "悔恨",
+    "en": "Regret",
+    "polarity": -1,
+    "is_emotion": true,
+    "tags": {
+      "sweet": 0,
+      "sour": 20,
+      "bitter": 70,
+      "strong": 30,
+      "aroma": 20,
+      "body": 60
+    },
+    "color": "#8a5a2b"
+  },
+  "despair": {
+    "zh": "绝望",
+    "en": "Despair",
+    "polarity": -1,
+    "is_emotion": true,
+    "tags": {
+      "sweet": 0,
+      "sour": 0,
+      "bitter": 80,
+      "strong": 50,
+      "aroma": 0,
+      "body": 80
+    },
+    "color": "#2e1f3a"
+  }
+}
